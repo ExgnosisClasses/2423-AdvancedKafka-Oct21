@@ -2,7 +2,7 @@
 
 This is the class repository for the Advanced kafka Class Oct 21-24, 2024.
 
-- The new repository will be accessible from October 25 until November 25, 2024
+The repository will be accessible from October 25 until November 25, 2024
 
 
 
